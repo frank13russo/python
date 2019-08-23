@@ -30,6 +30,10 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 #https://www.googleapis.com/auth/gmail.readonly
 #https://www.googleapis.com/auth/gmail.metadata
 
+currentWorkingDirectory=os.getcwd()
+currentWorkingDirectory=os.path.dirname(os.path.abspath(__file__)) # /a/b/c/d/e
+os.chdir(currentWorkingDirectory)
+
 def main():
   creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
