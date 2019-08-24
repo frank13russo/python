@@ -8,3 +8,5 @@ AutomateBoring/add.cpp
 AutomateBoring/usingDLLs.py
 DataProjects/matplotlibrc
 readGmailPython/credentials.json
+readGmailPython/token.pickle
+AutomateBoring/myProgramLog.txt
