@@ -65,8 +65,7 @@ def main():
     #for label in labels:
       #print(label['name'])
   
-  user_id =  'me' 
-  #me is a special value to indicate the authenticated user.
+  user_id =  'me'  #me is a special value to indicate the authenticated user.
   label_id_one = 'INBOX'
   label_id_two = 'UNREAD'
 
@@ -96,7 +95,8 @@ def main():
                                                   ).execute()
 
     print (single_date.strftime("%Y-%m-%d"))
-    mssg_list = unread_msgs['messages'] #must be a dictionary object
+    mssg_list = unread_msgs['messages'] 
+    #must be a dictionary object, dict object is requested and key is not in dict.
     print(today)
     print ("Total  messages received on the date: ", str( len(mssg_list) ) )
 
