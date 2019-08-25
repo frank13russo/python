@@ -24,6 +24,8 @@ def boxPrint(symbol, width, height):
     ysymbol=symbol
     topBotLength=len(xsymbol*width)
     leftRightLength=len(ysymbol*height)
+    logging.debug(topBotLength)
+    logging.debug(leftRightLength)
     topBot=2*midSpacingChar+(xsymbol*(width-1))+symbol
     print(topBot)
     for i in range(height-2):
