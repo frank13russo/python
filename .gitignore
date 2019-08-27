@@ -10,3 +10,7 @@ DataProjects/matplotlibrc
 readGmailPython/credentials.json
 readGmailPython/token.pickle
 AutomateBoring/myProgramLog.txt
+__pycache__/standard.cpython-37.pyc
+ch18log.txt
+__pycache__/fmrstd.cpython-37.pyc
+geckodriver.log
