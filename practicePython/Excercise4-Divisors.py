@@ -9,13 +9,15 @@ For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
 
 def findDivisors(x):
     y=[]
+    #brute force method
     for i in range(2,x):
         b = int(x) % i
         #print(str(x) + " % " + str(i) + " is " + str(b) )
         if b==0:
             y.append(i)
-        
+    #This is a clever way to remove duplicates from a list using dictionary keys.
     y=list(dict.fromkeys(y))
+    
     y.sort()
     print("Numbers that divide evenly into " + str(x) + "...")
     print(y)
@@ -30,7 +32,7 @@ def isNumber(s) -> bool:
 def main():
     print("Enter a number...")
     userNumber=input()
-
+    
     while not isNumber(userNumber):
         print("Enter a number...")
         userNumber=input()
