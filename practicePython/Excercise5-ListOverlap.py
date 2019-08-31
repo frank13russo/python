@@ -15,13 +15,25 @@ def findCommonElements(a,b):
     return commonElements
 
 def main():
-    x=random.randint(1,50)
-    y=random.randint(1,50)
+    x=random.randint(1,20)
+    y=random.randint(1,20)
     a = [random.randint(0,x) for i in range(x)]
     b = [random.randint(0,y) for i in range(y)]
     
     c= findCommonElements(a,b)
     c.sort()
+    print("Common elements between the two lists of numbers...")
     print(c)
 
+def alternateMain():
+    #List of 10 randomly chosen numbers between 1-100, no duplicates in each list
+    x=random.sample(range(1,25), 10)
+    y=random.sample(range(1,25), 10)
+    z=findCommonElements(x,y)
+    z.sort()
+    print("Common elements between the two lists of numbers...")
+    print(z)
+    
+
 main()
+alternateMain()
