@@ -1,0 +1,601 @@
+index,first_name,last_name,gender,age,visit_date,website_goal
+0,James,Estes,male,35,9/22/2017,When is trash day?
+1,John,Salazar,male,43,9/23/2017,Download a form
+2,Robert,Melendez,male,27,11/22/2017,Find a job
+3,Michael,Morse,male,14,10/9/2017,When is trash day?
+4,William,Flynn,male,50,10/6/2017,Find a job
+5,David,Spears,male,39,10/21/2017,Pay a bill
+6,Richard,Bass,male,44,9/22/2017,When is trash day?
+7,Charles,Barr,male,33,12/22/2017,Contact City Council
+8,Joseph,Garrison,male,28,12/16/2017,Contact City Council
+9,Thomas,Duke,male,51,12/19/2017,Download a form
+10,Christopher,Bradford,male,41,10/6/2017,When is trash day?
+11,Daniel,Luna,male,27,11/1/2017,Pay a bill
+12,Paul,Calhoun,male,21,12/12/2017,Contact City Council
+13,Mark,Pennington,male,28,10/16/2017,Download a form
+14,Donald,Townsend,male,45,9/3/2017,Contact City Council
+15,George,Mann,male,24,10/14/2017,Contact City Council
+16,Kenneth,David,male,32,11/15/2017,When is trash day?
+17,Steven,Logan,male,36,10/16/2017,Pay a bill
+18,Edward,Duffy,male,30,10/26/2017,Contact City Council
+19,Brian,Henson,male,45,9/8/2017,Find a job
+20,Ronald,Rivers,male,52,11/6/2017,When is trash day?
+21,Anthony,Salazar,male,29,9/24/2017,When is trash day?
+22,Kevin,Berg,male,37,11/20/2017,When is trash day?
+23,Jason,Glass,male,40,9/15/2017,Pay a bill
+24,Matthew,Everett,male,24,12/11/2017,Find a job
+25,Gary,Landry,male,47,10/12/2017,Pay a bill
+26,Timothy,Dunlap,male,27,11/29/2017,When is trash day?
+27,Jose,Ortega,male,26,10/26/2017,Pay a bill
+28,Larry,Haley,male,35,10/10/2017,When is trash day?
+29,Jeffrey,Calhoun,male,39,11/20/2017,Download a form
+30,Frank,Raymond,male,32,9/7/2017,Find a job
+31,Scott,Bridges,male,29,9/9/2017,Pay a bill
+32,Eric,Holder,male,47,9/20/2017,When is trash day?
+33,Stephen,Vega,male,21,9/14/2017,Pay a bill
+34,Andrew,Gallagher,male,35,11/20/2017,Contact City Council
+35,Raymond,Townsend,male,34,9/28/2017,When is trash day?
+36,Gregory,Koch,male,53,10/27/2017,When is trash day?
+37,Joshua,Dillon,male,38,9/18/2017,Download a form
+38,Jerry,Goff,male,39,10/15/2017,Find a job
+39,Dennis,Aguirre,male,42,10/10/2017,Find a job
+40,Walter,Blake,male,46,9/7/2017,Find a job
+41,Patrick,Mcneil,male,48,10/9/2017,Find a job
+42,Peter,Hodge,male,28,10/21/2017,Pay a bill
+43,Harold,Pope,male,39,10/12/2017,Pay a bill
+44,Douglas,Singleton,male,31,12/18/2017,Download a form
+45,Henry,Tyson,male,47,11/29/2017,Download a form
+46,Carl,Randolph,male,22,11/16/2017,Pay a bill
+47,Arthur,Mann,male,30,12/30/2017,Find a job
+48,Ryan,Guerrero,male,43,12/3/2017,Download a form
+49,Roger,Moss,male,41,11/13/2017,When is trash day?
+50,Joe,Cooley,male,48,9/23/2017,Find a job
+51,Juan,Rowe,male,39,11/26/2017,Download a form
+52,Jack,Conway,male,42,9/8/2017,When is trash day?
+53,Albert,Preston,male,27,11/1/2017,Find a job
+54,Jonathan,Colon,male,50,10/12/2017,When is trash day?
+55,Justin,Vaughan,male,54,12/7/2017,Find a job
+56,Terry,Cote,male,26,10/1/2017,Pay a bill
+57,Gerald,Rocha,male,35,11/20/2017,Pay a bill
+58,Keith,Townsend,male,36,12/4/2017,Pay a bill
+59,Samuel,Valentine,male,24,11/1/2017,Contact City Council
+60,Willie,Reeves,male,32,10/22/2017,Pay a bill
+61,Ralph,Cohen,male,57,9/1/2017,Pay a bill
+62,Lawrence,Gates,male,50,12/1/2017,Contact City Council
+63,Nicholas,Charles,male,46,12/26/2017,Find a job
+64,Roy,Branch,male,31,11/7/2017,Pay a bill
+65,Benjamin,Dejesus,male,41,10/22/2017,When is trash day?
+66,Bruce,Rasmussen,male,31,9/22/2017,Download a form
+67,Brandon,Hurley,male,36,12/17/2017,When is trash day?
+68,Adam,Owen,male,38,11/5/2017,Pay a bill
+69,Harry,Dickerson,male,36,9/18/2017,Pay a bill
+70,Fred,Fitzgerald,male,28,10/29/2017,When is trash day?
+71,Wayne,Noble,male,24,11/3/2017,When is trash day?
+72,Billy,Paul,male,26,10/30/2017,Contact City Council
+73,Steve,Yang,male,26,11/19/2017,When is trash day?
+74,Louis,Goodwin,male,36,10/22/2017,Contact City Council
+75,Jeremy,Waller,male,53,10/11/2017,Download a form
+76,Aaron,Petty,male,33,11/11/2017,Pay a bill
+77,Randy,Ayers,male,55,10/19/2017,Pay a bill
+78,Howard,Hays,male,35,10/16/2017,Contact City Council
+79,Eugene,Singleton,male,31,12/17/2017,Find a job
+80,Carlos,Hewitt,male,20,11/5/2017,Pay a bill
+81,Russell,Molina,male,44,10/28/2017,Download a form
+82,Bobby,Mcdowell,male,31,10/16/2017,Pay a bill
+83,Victor,Mullins,male,34,9/14/2017,Download a form
+84,Martin,Flynn,male,33,9/15/2017,Find a job
+85,Ernest,Boyle,male,25,10/20/2017,Contact City Council
+86,Phillip,Gillespie,male,34,11/15/2017,Download a form
+87,Todd,Avila,male,31,9/7/2017,Find a job
+88,Jesse,Rosa,male,28,12/1/2017,Find a job
+89,Craig,Fulton,male,48,12/12/2017,Find a job
+90,Alan,Yates,male,50,11/20/2017,Find a job
+91,Shawn,Haney,male,49,12/9/2017,When is trash day?
+92,Clarence,Francis,male,34,10/4/2017,Pay a bill
+93,Sean,Levine,male,34,10/14/2017,When is trash day?
+94,Philip,Bird,male,63,11/4/2017,Find a job
+95,Chris,Lara,male,37,10/16/2017,Contact City Council
+96,Johnny,Finley,male,28,11/4/2017,Pay a bill
+97,Earl,Frost,male,36,9/9/2017,When is trash day?
+98,Jimmy,Skinner,male,28,9/18/2017,When is trash day?
+99,Antonio,Duke,male,34,12/11/2017,Pay a bill
+100,Danny,Downs,male,38,10/28/2017,Download a form
+101,Bryan,Coffey,male,38,11/5/2017,Download a form
+102,Tony,David,male,24,11/1/2017,Find a job
+103,Luis,Hays,male,44,11/13/2017,Find a job
+104,Mike,Owen,male,44,9/3/2017,When is trash day?
+105,Stanley,Winters,male,43,9/23/2017,Find a job
+106,Leonard,Macias,male,31,11/25/2017,Contact City Council
+107,Nathan,Barker,male,40,9/3/2017,Pay a bill
+108,Dale,Chan,male,32,11/11/2017,When is trash day?
+109,Manuel,Frost,male,43,10/8/2017,Pay a bill
+110,Rodney,Nielsen,male,31,11/18/2017,When is trash day?
+111,Curtis,Sellers,male,19,10/29/2017,Find a job
+112,Norman,Zimmerman,male,28,9/12/2017,Contact City Council
+113,Allen,Christian,male,27,10/25/2017,Contact City Council
+114,Marvin,Livingston,male,41,10/25/2017,Find a job
+115,Vincent,Lynn,male,43,9/17/2017,Find a job
+116,Glenn,Rowland,male,26,11/3/2017,Find a job
+117,Jeffery,Luna,male,22,9/15/2017,Contact City Council
+118,Travis,Charles,male,28,10/27/2017,Pay a bill
+119,Jeff,Swanson,male,50,11/1/2017,Pay a bill
+120,Chad,Gilmore,male,35,10/20/2017,Find a job
+121,Jacob,Acevedo,male,31,10/14/2017,When is trash day?
+122,Lee,Griffith,male,30,11/30/2017,Find a job
+123,Melvin,Finley,male,34,9/1/2017,Pay a bill
+124,Alfred,Baxter,male,27,11/21/2017,When is trash day?
+125,Kyle,Campos,male,24,10/13/2017,Contact City Council
+126,Francis,Mccall,male,38,11/5/2017,Pay a bill
+127,Bradley,Lynn,male,37,11/15/2017,Pay a bill
+128,Jesus,Mathews,male,21,12/9/2017,Contact City Council
+129,Herbert,Hogan,male,24,12/26/2017,Pay a bill
+130,Frederick,Wyatt,male,25,9/20/2017,Find a job
+131,Ray,Carey,male,19,9/28/2017,Find a job
+132,Joel,Higgins,male,22,9/12/2017,Download a form
+133,Edwin,Strong,male,43,11/24/2017,Contact City Council
+134,Don,Buchanan,male,38,10/18/2017,Pay a bill
+135,Eddie,Langley,male,34,9/30/2017,Pay a bill
+136,Ricky,Pollard,male,35,10/24/2017,When is trash day?
+137,Troy,Nash,male,8,9/12/2017,Download a form
+138,Randall,Roy,male,47,9/16/2017,Find a job
+139,Barry,Leon,male,48,12/24/2017,When is trash day?
+140,Alexander,Leonard,male,18,12/16/2017,Find a job
+141,Bernard,Cooke,male,40,11/8/2017,When is trash day?
+142,Mario,Aguilar,male,28,10/13/2017,Pay a bill
+143,Leroy,Ballard,male,47,10/4/2017,Pay a bill
+144,Francisco,Dominguez,male,45,10/11/2017,Contact City Council
+145,Marcus,Noel,male,21,11/26/2017,Contact City Council
+146,Micheal,Harrington,male,49,10/3/2017,Pay a bill
+147,Theodore,Leblanc,male,31,11/17/2017,Find a job
+148,Clifford,Villarreal,male,34,10/11/2017,Find a job
+149,Miguel,Goff,male,22,9/7/2017,Find a job
+150,Oscar,Vaughan,male,33,12/4/2017,Download a form
+151,Jay,Travis,male,35,11/1/2017,Find a job
+152,Jim,O'neill,male,28,9/22/2017,Download a form
+153,Tom,Gates,male,40,11/21/2017,Pay a bill
+154,Calvin,Holden,male,41,10/30/2017,When is trash day?
+155,Alex,Durham,male,34,12/8/2017,Contact City Council
+156,Jon,Todd,male,26,12/18/2017,Download a form
+157,Ronnie,Rios,male,46,11/15/2017,Find a job
+158,Bill,Blackwell,male,36,11/29/2017,Find a job
+159,Lloyd,Kinney,male,27,9/16/2017,Contact City Council
+160,Tommy,Schneider,male,41,10/29/2017,Find a job
+161,Leon,Atkins,male,22,12/26/2017,Pay a bill
+162,Derek,Dyer,male,32,10/3/2017,Contact City Council
+163,Warren,Robbins,male,25,10/2/2017,Contact City Council
+164,Darrell,Gallegos,male,42,11/9/2017,Download a form
+165,Jerome,Deleon,male,44,11/23/2017,Find a job
+166,Floyd,Lindsey,male,37,11/5/2017,Find a job
+167,Leo,Humphrey,male,41,9/12/2017,Pay a bill
+168,Alvin,Barton,male,38,11/2/2017,Find a job
+169,Tim,Lloyd,male,22,10/25/2017,Find a job
+170,Wesley,Moon,male,29,10/1/2017,Download a form
+171,Gordon,Collier,male,48,10/22/2017,Contact City Council
+172,Dean,Benson,male,25,11/6/2017,Download a form
+173,Greg,Bradshaw,male,20,10/30/2017,Find a job
+174,Jorge,Bruce,male,54,12/30/2017,Download a form
+175,Dustin,Huffman,male,42,11/24/2017,Find a job
+176,Pedro,Wooten,male,29,9/5/2017,Find a job
+177,Derrick,Marquez,male,53,10/1/2017,Download a form
+178,Dan,Whitaker,male,26,9/11/2017,Find a job
+179,Lewis,Greer,male,44,11/17/2017,Find a job
+180,Zachary,Cote,male,31,12/9/2017,Pay a bill
+181,Corey,Potts,male,35,9/28/2017,When is trash day?
+182,Herman,Pittman,male,37,9/10/2017,When is trash day?
+183,Maurice,Foreman,male,34,12/23/2017,Find a job
+184,Vernon,Valdez,male,28,9/24/2017,Find a job
+185,Roberto,Gamble,male,31,9/3/2017,Pay a bill
+186,Clyde,Guzman,male,26,9/27/2017,Contact City Council
+187,Glen,Hooper,male,30,9/28/2017,Find a job
+188,Hector,Munoz,male,33,11/16/2017,Find a job
+189,Shane,Yates,male,45,9/8/2017,Find a job
+190,Ricardo,Heath,male,23,12/13/2017,Pay a bill
+191,Sam,Fulton,male,37,11/9/2017,Contact City Council
+192,Rick,Beard,male,39,11/15/2017,Pay a bill
+193,Lester,Vance,male,43,11/14/2017,Pay a bill
+194,Brent,Brennan,male,31,11/17/2017,Download a form
+195,Ramon,Knowles,male,42,11/21/2017,Download a form
+196,Charlie,Cochran,male,35,11/11/2017,When is trash day?
+197,Tyler,Hardin,male,32,10/20/2017,Pay a bill
+198,Gilbert,Bowers,male,45,12/26/2017,Find a job
+199,Gene,Garner,male,48,12/14/2017,Find a job
+200,Marc,Blackburn,male,42,11/1/2017,Find a job
+201,Reginald,Horne,male,24,9/4/2017,Find a job
+202,Ruben,Rosa,male,38,9/12/2017,Pay a bill
+203,Brett,Booker,male,28,11/13/2017,Pay a bill
+204,Angel,Reilly,male,42,9/29/2017,Pay a bill
+205,Nathaniel,Walsh,male,39,11/11/2017,Pay a bill
+206,Rafael,Key,male,39,10/7/2017,When is trash day?
+207,Leslie,Petty,male,42,11/1/2017,Download a form
+208,Edgar,Cochran,male,41,9/17/2017,Find a job
+209,Milton,Calhoun,male,37,11/23/2017,Pay a bill
+210,Raul,Stuart,male,43,9/5/2017,Find a job
+211,Ben,Vinson,male,46,11/23/2017,Find a job
+212,Chester,Spears,male,36,10/28/2017,Find a job
+213,Cecil,Albert,male,25,11/25/2017,Pay a bill
+214,Duane,Charles,male,28,11/30/2017,Contact City Council
+215,Franklin,Glover,male,30,11/9/2017,Find a job
+216,Andre,Leach,male,26,10/27/2017,Pay a bill
+217,Elmer,Franco,male,51,11/20/2017,Find a job
+218,Brad,Kane,male,39,11/5/2017,Download a form
+219,Gabriel,Albert,male,40,10/28/2017,Find a job
+220,Ron,Tanner,male,30,10/29/2017,Contact City Council
+221,Mitchell,Dotson,male,41,10/12/2017,Find a job
+222,Roland,Barlow,male,16,11/7/2017,When is trash day?
+223,Arnold,Skinner,male,16,12/26/2017,Download a form
+224,Harvey,Parsons,male,38,10/26/2017,Download a form
+225,Jared,Mcconnell,male,39,12/14/2017,Download a form
+226,Adrian,Callahan,male,38,9/29/2017,When is trash day?
+227,Karl,Wiggins,male,45,10/11/2017,Contact City Council
+228,Cory,Meadows,male,32,11/10/2017,Download a form
+229,Claude,Delgado,male,17,10/30/2017,Contact City Council
+230,Erik,Gross,male,26,11/2/2017,Find a job
+231,Darryl,Stephenson,male,41,11/1/2017,Pay a bill
+232,Jamie,Cobb,male,41,9/20/2017,Download a form
+233,Neil,Horne,male,42,11/3/2017,Find a job
+234,Jessie,Harding,male,51,11/10/2017,When is trash day?
+235,Christian,Guzman,male,37,10/2/2017,When is trash day?
+236,Javier,Franco,male,54,9/24/2017,Contact City Council
+237,Fernando,Rosa,male,15,11/16/2017,When is trash day?
+238,Clinton,Mooney,male,24,10/13/2017,Contact City Council
+239,Ted,Weber,male,40,11/24/2017,Download a form
+240,Mathew,Buckner,male,35,11/1/2017,Find a job
+241,Tyrone,Dominguez,male,37,10/27/2017,Pay a bill
+242,Darren,Kinney,male,44,12/20/2017,Pay a bill
+243,Lonnie,Yang,male,46,10/15/2017,When is trash day?
+244,Lance,Barrera,male,35,11/21/2017,Pay a bill
+245,Cody,Sharpe,male,27,11/18/2017,When is trash day?
+246,Julio,Valenzuela,male,25,10/10/2017,Find a job
+247,Kelly,Herman,male,24,10/4/2017,Pay a bill
+248,Kurt,Lester,male,37,11/13/2017,Find a job
+249,Allan,Burnett,male,26,11/19/2017,Find a job
+250,Nelson,Gallegos,male,43,12/20/2017,Find a job
+251,Guy,Weber,male,42,11/20/2017,Pay a bill
+252,Clayton,Suarez,male,16,12/24/2017,Contact City Council
+253,Hugh,Buchanan,male,35,12/28/2017,Download a form
+254,Max,Donovan,male,44,10/5/2017,Find a job
+255,Dwayne,Sellers,male,21,10/26/2017,When is trash day?
+256,Dwight,Trujillo,male,33,12/4/2017,Download a form
+257,Armando,Pope,male,32,11/11/2017,When is trash day?
+258,Felix,Slater,male,21,11/19/2017,Find a job
+259,Jimmie,Gamble,male,32,10/17/2017,Contact City Council
+260,Everett,Abbott,male,58,10/23/2017,Download a form
+261,Jordan,Lindsey,male,24,10/13/2017,When is trash day?
+262,Ian,Norton,male,48,9/17/2017,When is trash day?
+263,Wallace,Bradshaw,male,40,11/22/2017,Download a form
+264,Ken,Vaughan,male,41,10/8/2017,Find a job
+265,Bob,Gillespie,male,53,12/19/2017,Pay a bill
+266,Jaime,Donovan,male,23,11/14/2017,When is trash day?
+267,Casey,Mccarty,male,44,10/16/2017,When is trash day?
+268,Alfredo,Hester,male,33,11/9/2017,Find a job
+269,Alberto,Bowers,male,23,11/3/2017,Find a job
+270,Dave,Everett,male,39,10/26/2017,Contact City Council
+271,Ivan,Mccall,male,29,11/12/2017,When is trash day?
+272,Johnnie,Buck,male,38,9/22/2017,When is trash day?
+273,Sidney,Whitehead,male,25,10/1/2017,Pay a bill
+274,Byron,Winters,male,27,10/2/2017,Find a job
+275,Julian,Bowers,male,13,11/7/2017,When is trash day?
+276,Isaac,Cross,male,57,12/3/2017,When is trash day?
+277,Morris,Whitaker,male,33,10/23/2017,Contact City Council
+278,Clifton,Hoover,male,21,11/26/2017,Contact City Council
+279,Willard,Velez,male,39,11/2/2017,When is trash day?
+280,Daryl,Vance,male,45,10/22/2017,Contact City Council
+281,Ross,Tate,male,9,12/28/2017,When is trash day?
+282,Virgil,Wynn,male,44,10/15/2017,When is trash day?
+283,Andy,David,male,39,10/27/2017,When is trash day?
+284,Marshall,O'neill,male,25,11/10/2017,When is trash day?
+285,Salvador,Stuart,male,37,9/19/2017,Contact City Council
+286,Perry,York,male,45,12/26/2017,Download a form
+287,Kirk,Buck,male,35,10/1/2017,When is trash day?
+288,Sergio,Raymond,male,21,11/30/2017,Contact City Council
+289,Marion,Carson,male,36,9/7/2017,Download a form
+290,Tracy,Hyde,male,46,10/1/2017,Find a job
+291,Seth,Tillman,male,20,10/30/2017,Download a form
+292,Kent,Cross,male,48,10/22/2017,Find a job
+293,Terrance,Bonner,male,49,11/4/2017,When is trash day?
+294,Rene,Heath,male,35,9/23/2017,Pay a bill
+295,Eduardo,Rasmussen,male,19,10/17/2017,Find a job
+296,Terrence,Vinson,male,32,10/5/2017,Pay a bill
+297,Enrique,Cohen,male,36,11/22/2017,Find a job
+298,Freddie,Cannon,male,30,12/12/2017,Download a form
+299,Wade,Joyce,male,41,11/11/2017,Find a job
+300,Mary,Hopper,female,45,10/19/2017,When is trash day?
+301,Patricia,Schroeder,female,38,11/24/2017,Download a form
+302,Linda,Berg,female,32,10/7/2017,Pay a bill
+303,Barbara,Leonard,female,38,11/23/2017,Contact City Council
+304,Elizabeth,Nicholson,female,33,10/9/2017,Find a job
+305,Jennifer,Ellison,female,43,11/30/2017,Pay a bill
+306,Maria,Clarke,female,28,9/26/2017,When is trash day?
+307,Susan,Compton,female,23,9/17/2017,Download a form
+308,Margaret,Whitney,female,48,11/28/2017,Contact City Council
+309,Dorothy,Ramsey,female,33,9/5/2017,Download a form
+310,Lisa,Gilliam,female,39,11/22/2017,Find a job
+311,Nancy,Houston,female,40,11/22/2017,Contact City Council
+312,Karen,Clay,female,41,10/10/2017,Contact City Council
+313,Betty,Guy,female,20,11/16/2017,Download a form
+314,Helen,Waller,female,25,10/14/2017,Download a form
+315,Sandra,Mcmahon,female,34,10/8/2017,Contact City Council
+316,Donna,Wise,female,39,10/2/2017,Download a form
+317,Carol,Horn,female,49,11/22/2017,Download a form
+318,Ruth,Vega,female,13,11/5/2017,Contact City Council
+319,Sharon,Baxter,female,44,10/8/2017,Contact City Council
+320,Michelle,Melendez,female,35,9/28/2017,Contact City Council
+321,Laura,Wise,female,39,10/10/2017,Contact City Council
+322,Sarah,Mejia,female,43,12/28/2017,Find a job
+323,Kimberly,Puckett,female,38,11/18/2017,Download a form
+324,Deborah,York,female,38,12/30/2017,Pay a bill
+325,Jessica,Sargent,female,32,10/16/2017,Pay a bill
+326,Shirley,Fischer,female,51,10/1/2017,Find a job
+327,Cynthia,Todd,female,38,12/4/2017,Contact City Council
+328,Angela,Sweeney,female,35,11/4/2017,Find a job
+329,Melissa,Preston,female,56,10/26/2017,Find a job
+330,Brenda,Gibbs,female,38,9/17/2017,Find a job
+331,Amy,Foley,female,18,10/11/2017,Pay a bill
+332,Anna,Davenport,female,18,9/9/2017,When is trash day?
+333,Rebecca,Herring,female,33,11/14/2017,Pay a bill
+334,Virginia,Spears,female,35,11/9/2017,Find a job
+335,Kathleen,Todd,female,42,10/22/2017,Find a job
+336,Pamela,Norton,female,44,10/22/2017,Pay a bill
+337,Martha,Carrillo,female,34,9/15/2017,Pay a bill
+338,Debra,Park,female,34,11/11/2017,Pay a bill
+339,Amanda,Guzman,female,34,10/5/2017,Contact City Council
+340,Stephanie,Fulton,female,9,9/2/2017,When is trash day?
+341,Carolyn,Allison,female,27,10/27/2017,Find a job
+342,Christine,Mcfadden,female,14,10/28/2017,Find a job
+343,Marie,Puckett,female,45,10/21/2017,Find a job
+344,Janet,Waters,female,40,12/20/2017,Pay a bill
+345,Catherine,Doyle,female,42,10/14/2017,Find a job
+346,Frances,Santos,female,37,11/14/2017,Pay a bill
+347,Ann,Paul,female,44,10/13/2017,Pay a bill
+348,Joyce,Harmon,female,34,10/8/2017,Download a form
+349,Diane,Mckee,female,55,10/11/2017,Pay a bill
+350,Alice,Bridges,female,20,9/3/2017,Contact City Council
+351,Julie,Goodman,female,51,11/1/2017,Download a form
+352,Heather,Hoover,female,15,10/15/2017,Download a form
+353,Teresa,Erickson,female,28,10/21/2017,Pay a bill
+354,Doris,Burt,female,44,12/10/2017,Find a job
+355,Gloria,Collier,female,35,11/1/2017,Contact City Council
+356,Evelyn,O'neill,female,30,9/26/2017,Download a form
+357,Jean,Madden,female,24,11/2/2017,Pay a bill
+358,Cheryl,Wilcox,female,48,10/11/2017,Find a job
+359,Mildred,Mccall,female,20,11/18/2017,Pay a bill
+360,Katherine,Pitts,female,30,9/20/2017,Pay a bill
+361,Joan,Moran,female,41,12/29/2017,Find a job
+362,Ashley,Strong,female,40,11/15/2017,Download a form
+363,Judith,Kerr,female,35,10/29/2017,Pay a bill
+364,Rose,Frank,female,22,12/8/2017,Download a form
+365,Janice,Avery,female,43,10/3/2017,Pay a bill
+366,Kelly,Gilliam,female,40,11/28/2017,Find a job
+367,Nicole,Huber,female,34,12/9/2017,Contact City Council
+368,Judy,Espinoza,female,33,11/15/2017,Find a job
+369,Christina,Monroe,female,38,11/14/2017,Pay a bill
+370,Kathy,Glass,female,31,9/24/2017,Contact City Council
+371,Theresa,Rowe,female,31,11/21/2017,Find a job
+372,Beverly,Bond,female,27,11/29/2017,Find a job
+373,Denise,Hess,female,27,10/15/2017,When is trash day?
+374,Tammy,Solomon,female,43,11/4/2017,Find a job
+375,Irene,Christian,female,32,10/13/2017,Find a job
+376,Jane,Haney,female,37,9/14/2017,Find a job
+377,Lori,Larsen,female,24,10/16/2017,When is trash day?
+378,Rachel,Atkinson,female,28,10/11/2017,Pay a bill
+379,Marilyn,Rollins,female,37,10/2/2017,When is trash day?
+380,Andrea,Conner,female,35,10/2/2017,Contact City Council
+381,Kathryn,Brady,female,24,11/18/2017,Pay a bill
+382,Louise,Hammond,female,37,11/29/2017,Pay a bill
+383,Sara,Shields,female,28,11/29/2017,Find a job
+384,Anne,Lindsay,female,31,12/3/2017,Find a job
+385,Jacqueline,Bean,female,36,10/13/2017,When is trash day?
+386,Wanda,Cooley,female,37,11/4/2017,When is trash day?
+387,Bonnie,Summers,female,38,10/25/2017,Pay a bill
+388,Julia,Mcgowan,female,39,11/6/2017,Find a job
+389,Ruby,Justice,female,32,10/22/2017,Contact City Council
+390,Lois,Monroe,female,11,11/17/2017,Pay a bill
+391,Tina,Leblanc,female,34,11/19/2017,Download a form
+392,Phyllis,Townsend,female,44,12/18/2017,Pay a bill
+393,Norma,Blackburn,female,31,10/2/2017,Pay a bill
+394,Paula,Harrington,female,49,11/21/2017,When is trash day?
+395,Diana,Lang,female,40,10/30/2017,Download a form
+396,Annie,Cardenas,female,22,11/6/2017,Find a job
+397,Lillian,Blevins,female,34,11/10/2017,Find a job
+398,Emily,Strong,female,28,10/5/2017,When is trash day?
+399,Robin,Strickland,female,39,11/18/2017,Find a job
+400,Peggy,Rivers,female,51,11/28/2017,Download a form
+401,Crystal,Richard,female,18,11/23/2017,Pay a bill
+402,Gladys,Jefferson,female,38,11/27/2017,When is trash day?
+403,Rita,Conley,female,22,12/9/2017,Pay a bill
+404,Dawn,Marsh,female,51,11/18/2017,Find a job
+405,Connie,Mueller,female,27,12/25/2017,Download a form
+406,Florence,Wolf,female,39,12/19/2017,Pay a bill
+407,Tracy,Alston,female,45,9/9/2017,When is trash day?
+408,Edna,Le,female,21,10/4/2017,Find a job
+409,Tiffany,Phelps,female,33,11/13/2017,Find a job
+410,Carmen,Figueroa,female,48,9/26/2017,When is trash day?
+411,Rosa,Boyer,female,32,12/18/2017,Find a job
+412,Cindy,Cantrell,female,42,10/13/2017,When is trash day?
+413,Grace,Stafford,female,30,10/23/2017,Download a form
+414,Wendy,Mosley,female,51,9/12/2017,When is trash day?
+415,Victoria,Hendrix,female,24,9/17/2017,Pay a bill
+416,Edith,Cochran,female,27,10/10/2017,Contact City Council
+417,Kim,Strong,female,27,12/7/2017,Contact City Council
+418,Sherry,Savage,female,39,9/3/2017,Download a form
+419,Sylvia,Whitehead,female,34,11/24/2017,Contact City Council
+420,Josephine,Solis,female,34,10/7/2017,Download a form
+421,Thelma,Savage,female,29,10/4/2017,Find a job
+422,Shannon,Mayer,female,30,10/15/2017,Download a form
+423,Sheila,Saunders,female,36,11/4/2017,Find a job
+424,Ethel,Tanner,female,37,11/18/2017,Download a form
+425,Ellen,Swanson,female,24,9/17/2017,Pay a bill
+426,Elaine,Casey,female,36,10/29/2017,Find a job
+427,Marjorie,Pruitt,female,56,10/11/2017,Contact City Council
+428,Carrie,Mcbride,female,40,10/2/2017,Find a job
+429,Charlotte,Kramer,female,18,10/21/2017,Contact City Council
+430,Monica,Chen,female,35,9/15/2017,Download a form
+431,Esther,Hinton,female,34,12/10/2017,Find a job
+432,Pauline,Guy,female,23,12/28/2017,Find a job
+433,Emma,Briggs,female,26,11/25/2017,Contact City Council
+434,Juanita,Salinas,female,23,10/19/2017,Find a job
+435,Anita,Becker,female,26,11/20/2017,Contact City Council
+436,Rhonda,Kerr,female,39,10/1/2017,Pay a bill
+437,Hazel,Cote,female,28,9/11/2017,When is trash day?
+438,Amber,Rasmussen,female,27,10/25/2017,When is trash day?
+439,Eva,O'neal,female,20,11/8/2017,When is trash day?
+440,Debbie,Hutchinson,female,39,11/4/2017,When is trash day?
+441,April,Pugh,female,5,11/10/2017,Find a job
+442,Leslie,Briggs,female,24,11/8/2017,Find a job
+443,Clara,Mckenzie,female,24,11/18/2017,Download a form
+444,Lucille,Rosales,female,40,11/24/2017,Pay a bill
+445,Jamie,Daugherty,female,38,10/8/2017,Pay a bill
+446,Joanne,Mcpherson,female,47,11/17/2017,Find a job
+447,Eleanor,Bradshaw,female,28,11/16/2017,Pay a bill
+448,Valerie,Bentley,female,31,10/4/2017,Find a job
+449,Danielle,Barrera,female,35,11/4/2017,Find a job
+450,Megan,Goff,female,44,9/8/2017,Find a job
+451,Alicia,Cantu,female,36,10/18/2017,Pay a bill
+452,Suzanne,Vincent,female,25,11/20/2017,Find a job
+453,Michele,Merrill,female,35,9/29/2017,Pay a bill
+454,Gail,Mcleod,female,24,9/4/2017,Pay a bill
+455,Bertha,Morton,female,29,10/11/2017,When is trash day?
+456,Darlene,Whitney,female,35,12/20/2017,Find a job
+457,Veronica,Rosales,female,25,11/7/2017,Find a job
+458,Jill,Foley,female,48,12/23/2017,When is trash day?
+459,Erin,Mcneil,female,33,10/21/2017,Pay a bill
+460,Geraldine,Middleton,female,54,12/19/2017,Download a form
+461,Lauren,Castaneda,female,42,10/28/2017,When is trash day?
+462,Cathy,Brennan,female,48,10/16/2017,Pay a bill
+463,Joann,Bender,female,31,9/1/2017,Download a form
+464,Lorraine,Harmon,female,36,9/30/2017,Find a job
+465,Lynn,Patrick,female,24,10/19/2017,When is trash day?
+466,Sally,Barton,female,55,11/11/2017,Find a job
+467,Regina,Johns,female,44,12/26/2017,Find a job
+468,Erica,Burnett,female,28,12/16/2017,Contact City Council
+469,Beatrice,Blanchard,female,26,11/20/2017,Find a job
+470,Dolores,Sargent,female,36,10/16/2017,Contact City Council
+471,Bernice,Parrish,female,39,10/8/2017,When is trash day?
+472,Audrey,Mcfarland,female,39,11/13/2017,Contact City Council
+473,Yvonne,Savage,female,30,11/20/2017,Download a form
+474,Annette,Rasmussen,female,35,11/13/2017,Find a job
+475,June,Blankenship,female,24,11/25/2017,Pay a bill
+476,Samantha,Mathis,female,36,10/13/2017,Find a job
+477,Marion,Stephenson,female,31,11/24/2017,Find a job
+478,Dana,Cote,female,40,12/3/2017,Download a form
+479,Stacy,Mcgowan,female,53,10/17/2017,Contact City Council
+480,Ana,Sharp,female,29,9/11/2017,Find a job
+481,Renee,Michael,female,28,11/10/2017,Find a job
+482,Ida,Beach,female,29,11/13/2017,Find a job
+483,Vivian,Villarreal,female,34,11/7/2017,Find a job
+484,Roberta,Burris,female,30,10/24/2017,Contact City Council
+485,Holly,Huber,female,49,12/15/2017,Download a form
+486,Brittany,Collier,female,43,10/6/2017,Find a job
+487,Melanie,Moses,female,33,9/11/2017,When is trash day?
+488,Loretta,Kline,female,46,11/23/2017,Pay a bill
+489,Yolanda,Ball,female,41,10/15/2017,Download a form
+490,Jeanette,Walter,female,22,10/13/2017,Find a job
+491,Laurie,Avery,female,20,11/22/2017,Find a job
+492,Katie,Aguirre,female,39,12/28/2017,Contact City Council
+493,Kristen,Coffey,female,36,11/24/2017,When is trash day?
+494,Vanessa,Cohen,female,36,10/14/2017,Pay a bill
+495,Alma,Gross,female,43,12/15/2017,Find a job
+496,Sue,Forbes,female,42,9/23/2017,Find a job
+497,Elsie,Rojas,female,32,11/10/2017,Find a job
+498,Beth,Acosta,female,29,11/22/2017,Contact City Council
+499,Jeanne,Ewing,female,25,10/28/2017,Download a form
+500,Vicki,Moran,female,32,9/3/2017,Contact City Council
+501,Carla,Moss,female,38,11/6/2017,Contact City Council
+502,Tara,Albert,female,47,11/16/2017,Pay a bill
+503,Rosemary,Aguilar,female,25,10/3/2017,Pay a bill
+504,Eileen,Sherman,female,34,12/12/2017,Contact City Council
+505,Terri,Slater,female,40,10/3/2017,Find a job
+506,Gertrude,Orr,female,52,11/24/2017,When is trash day?
+507,Lucy,Rojas,female,24,11/13/2017,Find a job
+508,Tonya,Humphrey,female,38,11/3/2017,When is trash day?
+509,Ella,Manning,female,44,9/20/2017,Pay a bill
+510,Stacey,House,female,49,11/8/2017,Pay a bill
+511,Wilma,Weber,female,44,10/3/2017,When is trash day?
+512,Gina,Velez,female,32,12/25/2017,Contact City Council
+513,Kristin,Clemons,female,25,12/25/2017,When is trash day?
+514,Jessie,Frank,female,22,12/9/2017,Download a form
+515,Natalie,Tyson,female,26,10/5/2017,Download a form
+516,Agnes,English,female,27,10/11/2017,Find a job
+517,Vera,Rich,female,33,10/6/2017,Download a form
+518,Willie,Burgess,female,30,9/26/2017,Find a job
+519,Charlene,Winters,female,27,10/8/2017,Pay a bill
+520,Bessie,Santos,female,45,11/28/2017,Find a job
+521,Delores,Manning,female,38,10/3/2017,Find a job
+522,Melinda,Meyers,female,16,9/14/2017,Pay a bill
+523,Pearl,Roman,female,39,10/20/2017,When is trash day?
+524,Arlene,Bartlett,female,36,9/4/2017,Find a job
+525,Maureen,Kent,female,48,11/7/2017,When is trash day?
+526,Colleen,Herring,female,42,12/8/2017,Contact City Council
+527,Allison,Middleton,female,31,11/19/2017,Find a job
+528,Tamara,Forbes,female,35,11/1/2017,Pay a bill
+529,Joy,Pate,female,49,10/14/2017,Find a job
+530,Georgia,Ayers,female,29,12/12/2017,Pay a bill
+531,Constance,Marquez,female,38,9/6/2017,Pay a bill
+532,Lillie,Doyle,female,34,12/22/2017,Contact City Council
+533,Claudia,Levy,female,24,11/25/2017,Download a form
+534,Jackie,Zamora,female,30,9/29/2017,Contact City Council
+535,Marcia,Contreras,female,52,10/15/2017,Pay a bill
+536,Tanya,Moss,female,29,10/24/2017,Pay a bill
+537,Nellie,Luna,female,37,10/27/2017,Pay a bill
+538,Minnie,Potter,female,34,10/16/2017,When is trash day?
+539,Marlene,Thornton,female,41,11/24/2017,Download a form
+540,Heidi,Colon,female,40,11/24/2017,Find a job
+541,Glenda,Whitaker,female,32,11/11/2017,Pay a bill
+542,Lydia,Keller,female,45,9/13/2017,Download a form
+543,Viola,Rasmussen,female,36,10/15/2017,Find a job
+544,Courtney,Levine,female,30,11/29/2017,Find a job
+545,Marian,Cohen,female,35,12/3/2017,Contact City Council
+546,Stella,Avery,female,27,11/2/2017,Pay a bill
+547,Caroline,Noel,female,29,9/10/2017,Download a form
+548,Dora,Barber,female,24,11/23/2017,Find a job
+549,Jo,Conner,female,45,10/8/2017,Find a job
+550,Vickie,Benton,female,39,9/19/2017,Find a job
+551,Mattie,Mcguire,female,40,9/15/2017,Find a job
+552,Terry,Franco,female,42,10/26/2017,Find a job
+553,Maxine,Mcguire,female,39,12/4/2017,Pay a bill
+554,Irma,Wyatt,female,43,11/23/2017,Pay a bill
+555,Mabel,Dunlap,female,38,9/13/2017,When is trash day?
+556,Marsha,Bonner,female,23,9/26/2017,Find a job
+557,Myrtle,Lloyd,female,31,9/28/2017,Pay a bill
+558,Lena,Russo,female,24,11/30/2017,Contact City Council
+559,Christy,French,female,11,9/9/2017,Pay a bill
+560,Deanna,Hubbard,female,36,11/21/2017,Find a job
+561,Patsy,Cotton,female,32,12/9/2017,Find a job
+562,Hilda,Miranda,female,29,10/23/2017,Find a job
+563,Gwendolyn,Houston,female,47,12/30/2017,Find a job
+564,Jennie,Reilly,female,32,12/2/2017,Pay a bill
+565,Nora,Donaldson,female,39,9/6/2017,Download a form
+566,Margie,Castaneda,female,48,11/7/2017,When is trash day?
+567,Nina,English,female,31,12/22/2017,Find a job
+568,Cassandra,Lamb,female,33,11/21/2017,Find a job
+569,Leah,Joyce,female,34,9/24/2017,Pay a bill
+570,Penny,Kirkland,female,39,10/4/2017,Find a job
+571,Kay,Buckner,female,26,9/4/2017,Find a job
+572,Priscilla,Atkins,female,42,11/14/2017,Download a form
+573,Naomi,Dorsey,female,37,9/21/2017,Find a job
+574,Carole,Henson,female,46,11/1/2017,Pay a bill
+575,Brandy,Marquez,female,42,10/18/2017,Download a form
+576,Olga,Odom,female,43,11/9/2017,Download a form
+577,Billie,Mercado,female,30,12/13/2017,Find a job
+578,Dianne,Hodge,female,38,10/6/2017,Download a form
+579,Tracey,Stout,female,38,9/7/2017,Pay a bill
+580,Leona,Melton,female,29,11/26/2017,Contact City Council
+581,Jenny,Moses,female,43,12/14/2017,Contact City Council
+582,Felicia,Larsen,female,30,10/13/2017,Pay a bill
+583,Sonia,Mccarthy,female,29,10/9/2017,Pay a bill
+584,Miriam,Weber,female,40,9/21/2017,Find a job
+585,Velma,Logan,female,60,10/8/2017,Contact City Council
+586,Becky,Donovan,female,25,10/22/2017,Download a form
+587,Bobbie,Monroe,female,24,10/27/2017,Download a form
+588,Violet,Salas,female,28,11/17/2017,Contact City Council
+589,Kristina,Saunders,female,40,10/20/2017,Pay a bill
+590,Toni,Roach,female,37,9/9/2017,Pay a bill
+591,Misty,Trevino,female,37,10/11/2017,Download a form
+592,Mae,Holman,female,28,11/23/2017,Find a job
+593,Shelly,Leach,female,29,11/9/2017,Find a job
+594,Daisy,Langley,female,21,10/26/2017,Contact City Council
+595,Ramona,Wolf,female,25,12/11/2017,Contact City Council
+596,Sherri,Humphrey,female,44,10/20/2017,Contact City Council
+597,Erika,Frost,female,46,12/24/2017,Pay a bill
+598,Katrina,Mueller,female,27,11/8/2017,Contact City Council
+599,Claire,Warner,female,34,9/26/2017,Contact City Council
